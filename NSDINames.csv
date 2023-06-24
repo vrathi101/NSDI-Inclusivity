@@ -1,0 +1,689 @@
+name,region,year,committee
+Aditya Akella,University of Wisconsin—Madison,2013,Program
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne  (EPFL),2013,Program
+Suman Banerjee,University of Wisconsin—Madison,2013,Program
+Matthew Caesar,University of Illinois at Urbana-Champaign,2013,Program
+Jeff Chase,Duke University,2013,Program
+Rodrigo Fonseca,Brown University,2013,Program
+Bryan Ford,Yale University,2013,Program
+Mike Freedman,Princeton University,2013,Program
+Krishna Gummadi,Max Planck Institute for Software Systems (MPI-SWS),2013,Program
+Rebecca Isaacs,Microsoft Research,2013,Program
+Jaeyeon Jung,Microsoft Research,2013,Program
+Brad Karp,University College London,2013,Program
+Ethan Katz-Bassett,University of Southern California,2013,Program
+Dejan Kostić,Institute IMDEA Networks,2013,Program
+Arvind Krishnamurthy,University of Washington,2013,Program
+Wenke Lee,Georgia Institute of Technology,2013,Program
+Dave Levin,University of Maryland,2013,Program
+Philip Levis,Stanford University,2013,Program
+Ratul Mahajan,Microsoft Research,2013,Program
+James  Mickens,Microsoft Research,2013,Program
+Andrew Moore,University of Cambridge,2013,Program
+Richard Mortier,University of Nottingham,2013,Program
+Michael Piatek,Google,2013,Program
+George Porter,"University of California, San Diego",2013,Program
+Luigi Rizzo,Università di Pisa,2013,Program
+Lakshminarayanan Subramanian,New York University,2013,Program
+Renata Teixeira,CNRS and UPMC Sorbonne Universités,2013,Program
+Kobus Van der Merwe,University of Utah,2013,Program
+Michael Walfish,"University of Texas, Austin",2013,Program
+Heather Zheng,"University of California, Santa Barbara",2013,Program
+Katerina Argyraki,EPFL,2014,Program
+Aruna Balasubramanian,University of Washington,2014,Program
+Miguel Castro,Microsoft Research Cambridge,2014,Program
+Prabal Dutta,University of Michigan,2014,Program
+Mike Freedman,Princeton University,2014,Program
+Ali  Ghodsi,"KTH Royal Institute of Technology and University of California, Berkeley",2014,Program
+Brighten Godfrey,University of Illinois at Urbana-Champaign,2014,Program
+Sharon Goldberg,Boston University,2014,Program
+Shyamnath Gollakota,University of Washington,2014,Program
+Ramesh Govindan,University of Southern California,2014,Program
+Saikat Guha,Microsoft Research India,2014,Program
+Kyle Jamieson,University College London,2014,Program
+Ethan Katz-Bassett,University of Southern California,2014,Program
+S. Keshav,University of Waterloo,2014,Program
+Changhoon Kim,Microsoft,2014,Program
+Dejan Kostić,IMDEA Networks,2014,Program
+T. V. Lakshman,Bell Labs,2014,Program
+Nikolaos Laoutaris,Telefónica,2014,Program
+Bruce Maggs,Duke University,2014,Program
+KyoungSoo Park,KAIST,2014,Program
+George Porter,"University of California, San Diego",2014,Program
+Lili Qiu,University of Texas,2014,Program
+Sanjay Rao,Purdue University,2014,Program
+Jennifer Rexford,Princeton University,2014,Program
+Vyas Sekar,Stony Brook University,2014,Program
+Srinivasan Seshan,Carnegie Mellon University,2014,Program
+Jonathan Smith,University of Pennsylvania,2014,Program
+Nina Taft,Technicolor,2014,Program
+Amin Vahdat,"Google and University of California, San Diego",2014,Program
+Walter Willinger,Niksun,2014,Program
+Yuan Yu,Microsoft,2014,Program
+Ben Zhao,"University of California, Santa Barbara",2014,Program
+Atul Adya,Google,2015,Program
+Aditya Akella,University of Wisconsin–Madison,2015,Program
+Katerina Argyraki,EPFL,2015,Program
+Hitesh Ballani,Microsoft Research Cambridge,2015,Program
+Suman Banerjee,University of Wisconsin–Madison,2015,Program
+Jeff Chase,Duke University,2015,Program
+Jeff Dean,Google,2015,Program
+Prabal Dutta,University of Michigan,2015,Program
+Nick Feamster,Princeton University,2015,Program
+Rodrigo Fonseca,Brown University,2015,Program
+Deepak Ganesan,University of Massachusetts Amherst,2015,Program
+Sharon Goldberg,Boston University,2015,Program
+Andreas Haeberlen,University of Pennsylvania,2015,Program
+Mark Handley,University College London,2015,Program
+Jon Howell,Microsoft Research Redmond,2015,Program
+Jaeyeon Jung,Microsoft Research Redmond,2015,Program
+Sachin Katti,Stanford University,2015,Program
+Ethan Katz-Bassett,University of Southern California,2015,Program
+Kimberly Keeton,HP Labs,2015,Program
+Changhoon Kim,Barefoot Networks,2015,Program
+Eddie Kohler,Harvard University,2015,Program
+Dejan Kostic,KTH Royal Institute of Technology,2015,Program
+Kate Lin,Academia Sinica Taiwan,2015,Program
+David Maltz,Microsoft Redmond,2015,Program
+Petros Maniatis,Google,2015,Program
+Alan Mislove,Northeastern University,2015,Program
+Richard Mortier,University of Nottingham,2015,Program
+Dushyanth Narayanan,Microsoft Research Cambridge,2015,Program
+Venkat Padmanabhan,Microsoft Research India,2015,Program
+KyoungSoo Park,KAIST,2015,Program
+George Porter,"University of California, San Diego",2015,Program
+Rama Ramasubramanian,Google,2015,Program
+Franzi Roesner,University of Washington,2015,Program
+Srinivasan Seshan,Carnegie Mellon University,2015,Program
+Neil Spring,University of Maryland,2015,Program
+Lakshminarayanan Subramanian,New York University,2015,Program
+Kobus van der Merwe,University of Utah,2015,Program
+Robbert van Renesse,Cornell University,2015,Program
+Geoff Voelker,"University of California, San Diego",2015,Program
+Hakim Weatherspoon,Cornell University,2015,Program
+Matei Zaharia,MIT CSAIL and Databricks,2015,Program
+Nickolai Zeldovich,MIT CSAIL,2015,Program
+Lidong Zhou,Microsoft Research Asia,2015,Program
+Aditya Akella,University of Wisconsin—Madison,2016,Program
+Mohammad Alizadeh,Massachusetts Institute of Technology,2016,Program
+Mona Attariyan,Google,2016,Program
+Hari Balakrishnan,Massachusetts Institute of Technology,2016,Program
+Mahesh Balakrishnan,Yale University,2016,Program
+Aruna Balasubramanian,Stony Brook University,2016,Program
+Sujata Banerjee,HP Labs,2016,Program
+Paul Barford,University of Wisconsin—Madison and comScore,2016,Program
+Ranjita Bhagwan,Microsoft Research India,2016,Program
+Nathan Bronson,Facebook,2016,Program
+Paolo Costa,Microsoft Research,2016,Program
+Paul Francis,Max Planck Institute for Software Systems (MPI-SWS),2016,Program
+Monia (Manya) Ghobadi,Microsoft Research,2016,Program
+Shyam Gollakota,University of Washington,2016,Program
+Jon Howell,Google,2016,Program
+Kyle Jamieson,Princeton University,2016,Program
+Srikanth Kandula,Microsoft,2016,Program
+Brad Karp,University College London,2016,Program
+S. Keshav,University of Waterloo,2016,Program
+Changhoon Kim,Barefoot Networks,2016,Program
+Ramakrishna Kotla,Amazon,2016,Program
+Jinyang Li,New York University,2016,Program
+David Lie,University of Toronto,2016,Program
+Kate Ching-Ju Lin,"Academia Sinica, Taiwan",2016,Program
+Wyatt Lloyd,University of Southern California,2016,Program
+Jay Lorch,Microsoft Research,2016,Program
+Ratul Mahajan,Microsoft Research,2016,Program
+Prateek Mittal,Princeton University,2016,Program
+Thomas Moscibroda,Microsoft Research,2016,Program
+David Oran,Cisco Systems,2016,Program
+Oriana Riva,Microsoft Research,2016,Program
+Vyas Sekar,Carnegie Mellon University,2016,Program
+Siddhartha Sen,Microsoft Research,2016,Program
+Srinivasan Seshan,Carnegie Mellon University,2016,Program
+Ankit Singla,ETH Zürich,2016,Program
+Jonathan Smith,University of Pennsylvania,2016,Program
+Alex Snoeren,"University of California, San Diego",2016,Program
+Kobus Van der Merwe,University of Utah,2016,Program
+Laurent Vanbever,ETH Zürich,2016,Program
+Matt Welsh,Google,2016,Program
+Sharad Agarwal,Microsoft,2017,Program
+Thomas E. Anderson,University of Washington,2017,Program
+Andrea Arpaci-Dusseau,University of Wisconsin—Madison,2017,Program
+Anirudh Badam,Microsoft,2017,Program
+Mahesh Balakrishnan,Yale University,2017,Program
+Fabian Bustamante,Northwestern University,2017,Program
+Ranveer Chandra,Microsoft,2017,Program
+David Choffnes,Northeastern University,2017,Program
+Romit Roy Choudhury,University of Illinois at Urbana-Champaign,2017,Program
+Mosharaf Chowdhury,University of Michigan,2017,Program
+Mike Dahlin,Google,2017,Program
+Anja Feldmann,Technische Universität Berlin,2017,Program
+Rodrigo Fonseca,Brown University,2017,Program
+Nate Foster,Cornell University,2017,Program
+Deepak Ganesan,University of Massachusetts Amherst,2017,Program
+Phillipa Gill,University of Massachusetts Amherst,2017,Program
+Srikanth Kandula,Microsoft,2017,Program
+Teemu Koponen,Styra,2017,Program
+Sanjeev Kumar,Uber,2017,Program
+Swarun Kumar,Carnegie Mellon University,2017,Program
+Wyatt Lloyd,University of Southern California,2017,Program
+Boon Thau Loo,University of Pennsylvania,2017,Program
+Jay Lorch,Microsoft,2017,Program
+Ratul Mahajan,Microsoft,2017,Program
+Dahlia Malkhi,VMware,2017,Program
+David Maltz,Microsoft,2017,Program
+Z. Morley Mao,University of Michigan,2017,Program
+Michael Mitzenmacher,Harvard University,2017,Program
+Jason Nieh,Columbia University,2017,Program
+George Porter,"University of California, San Diego",2017,Program
+Luigi Rizzo,University of Pisa,2017,Program
+Srini Seshan,Carnegie Mellon University,2017,Program
+Anees Shaikh,Google,2017,Program
+Ankit Singla,ETH Zurich,2017,Program
+Robbert van Renesse,Cornell University,2017,Program
+Geoff Voelker,"University of California, San Diego",2017,Program
+David Wetherall,Google,2017,Program
+Adam Wierman,California Institute of Technology,2017,Program
+John Wilkes,Google,2017,Program
+Minlan Yu,University of Southern California,2017,Program
+Heather Zheng,"University of California, Santa Barbara",2017,Program
+Lin Zhong,Rice University,2017,Program
+Rachit Agarwal,Cornell University,2018,Program
+Mohamed Alizadeh,MIT,2018,Program
+Katerina Argyraki,EPFL,2018,Program
+Ranjita Bhagwan,Microsoft Research,2018,Program
+Marco Canini,KAUST,2018,Program
+Kai Chen,HKUST,2018,Program
+Romit Roy Choudhury,University of Illinois at Urbana-Champaign,2018,Program
+Mike Freedman,Princeton University,2018,Program
+Roxana Geambasu,Columbia University,2018,Program
+Shyam Gollakota,University of Washington,2018,Program
+Ramesh Govindan,USC,2018,Program
+Dongsu Han,KAIST,2018,Program
+Jon Howell,Google,2018,Program
+Kyle Jamieson,Princeton University,2018,Program
+Michael Kaminsky,Intel Labs,2018,Program
+Srikanth Kandula,Microsoft,2018,Program
+Srinivas Keshav,University of Waterloo,2018,Program
+Kyu-Han Kim,Hewlett Packard Labs,2018,Program
+Eddie Kohler,Harvard University,2018,Program
+Arvind Krishnamurthy,University of Washington,2018,Program
+Wyatt Lloyd,Princeton University,2018,Program
+Boon Thau Loo,University of Pennsylvania,2018,Program
+Jay Lorch,Microsoft,2018,Program
+Harsha V. Madhyastha,University of Michigan,2018,Program
+Dahlia Malkhi,VMware Research,2018,Program
+KyongSoo Park,KAIST,2018,Program
+Amar Phanishayee,Microsoft Research,2018,Program
+Raluca Ada Popa,"University of California, Berkeley",2018,Program
+George Porter,"University of California, San Diego",2018,Program
+Lili Qiu,UT Austin,2018,Program
+Costin Raiciu,University Politehnica of Bucharest,2018,Program
+Timothy Roscoe,ETH Zurich,2018,Program
+Michael Schapira,Hebrew University,2018,Program
+Cole Schlesinger,Barefoot Networks,2018,Program
+Vyas Sekar,Carnegie Mellon University,2018,Program
+Emin Gun Sirer,Cornell University,2018,Program
+Alex C. Snoeren,"University of California, San Diego",2018,Program
+Hakim Weatherspoon,Cornell University,2018,Program
+Keith Winstein,Stanford University,2018,Program
+Timothy Wood 0001,George Washington University,2018,Program
+Minlan Yu,Yale University,2018,Program
+Matei Zaharia,Stanford University,2018,Program
+Lin Zhong,Rice University,2018,Program
+Fadel Adib,Massachusetts Institute of Technology,2019,Program
+Aditya Akella,University of Wisconsin—Madison,2019,Program
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2019,Program
+Aruna Balasubramanian,Stony Brook University,2019,Program
+Sujata Banerjee,VMware Research,2019,Program
+Paul Barham,Google,2019,Program
+Ranjita Bhagwan,Microsoft Research,2019,Program
+Kai Chen,Hong Kong University of Science and Technology,2019,Program
+Vijay Chidambaram,The University of Texas at Austin and VMware Research,2019,Program
+Mosharaf Chowdhury,University of Michigan,2019,Program
+Asaf Cidon,Barracuda Networks,2019,Program
+Anja Feldmann,Technische Universität Berlin,2019,Program
+Bryan Ford,École Polytechnique Fédérale de Lausanne (EPFL),2019,Program
+Roxana Geambasu,Columbia University,2019,Program
+Manya Ghobadi,Microsoft Research,2019,Program
+Jana Giceva,Imperial College London,2019,Program
+Ronghui Gu,Columbia University,2019,Program
+Haryadi Gunawi,University of Chicago,2019,Program
+Andreas Haeberlen,University of Pennsylvania,2019,Program
+Haitham Hassanieh,University of Illinois at Urbana-Champaign,2019,Program
+Jon Howell,VMware Research,2019,Program
+Rebecca Isaacs,Twitter,2019,Program
+Xin Jin,Johns Hopkins University,2019,Program
+Srikanth Kandula,Microsoft Research,2019,Program
+Manos Kapritsos,University of Michigan,2019,Program
+Dejan Kostić,KTH Royal Institute of Technology,2019,Program
+Ramakrishna Kotla,Amazon Web Services,2019,Program
+Arvind Krishnamurthy,University of Washington,2019,Program
+Hongqiang Liu,Alibaba,2019,Program
+Harsha V. Madhyastha,University of Michigan and Google,2019,Program
+Dahlia Malkhi,VMware Research,2019,Program
+Allison Mankin,Salesforce,2019,Program
+Derek Murray,Google,2019,Program
+Aurojit Panda,New York University,2019,Program
+KyoungSoo Park,Korea Advanced Institute of Science and Technology (KAIST),2019,Program
+Amar Phanishayee,Microsoft Research,2019,Program
+Raluca Ada Popa,"University of California, Berkeley",2019,Program
+George Porter,"University of California, San Diego",2019,Program
+Lili Qiu,The University of Texas at Austin,2019,Program
+K. K. Ramakrishnan,"University of California, Riverside",2019,Program
+Michael Schapira,Hebrew University of Jerusalem,2019,Program
+Cole Schlesinger,Amazon Web Services,2019,Program
+Vyas Sekar,Carnegie Mellon University,2019,Program
+Ankit Singla,ETH Zurich,2019,Program
+Anirudh Sivaraman,New York University,2019,Program
+Alex C. Snoeren,"University of California, San Diego",2019,Program
+Michael Stumm,University of Toronto,2019,Program
+Ryan Stutsman,University of Utah,2019,Program
+Geoff Voelker,"University of California, San Diego",2019,Program
+Hakim Weatherspoon,Cornell University,2019,Program
+John Wilkes,Google,2019,Program
+Keith Winstein,Stanford University,2019,Program
+Jie Xiong,University of Massachusetts Amherst,2019,Program
+James Hongyi Zeng,Facebook,2019,Program
+Irene Zhang,Microsoft Research,2019,Program
+Xinyu Zhang,"University of California, San Diego",2019,Program
+Lin Zhong,Rice University,2019,Program
+Rachit Agarwal,Cornell University,2020,Program
+Aditya Akella,University of Wisconsin—Madison,2020,Program
+Mohammad Alizadeh,Massachusetts Institute of Technology,2020,Program
+Andrea Arpaci-Dusseau,University of Wisconsin—Madison,2020,Program
+Behnaz Arzani,Microsoft Research,2020,Program
+Hitesh Ballani,Microsoft Research,2020,Program
+Sujata Banerjee,VMware Research,2020,Program
+Ivan Beschastnikh,University of British Columbia,2020,Program
+Dinesh Bharadia,"University of California, San Diego",2020,Program
+Fabian Bustamante,Northwestern University,2020,Program
+David Choffnes,Northeastern University,2020,Program
+Romit Roy Choudhury,University of Illinois at Urbana–Champaign,2020,Program
+Asaf Cidon,Columbia University,2020,Program
+Heming Cui,University of Hong Kong,2020,Program
+Nate Foster,Cornell University,2020,Program
+Manya Ghobadi,Massachusetts Institute of Technology,2020,Program
+Arpit Gupta,"University of California, Santa Barbara",2020,Program
+Hamed Haddadi,Imperial College London,2020,Program
+Rebecca Isaacs,Twitter,2020,Program
+Kyle Jamieson,Princeton University,2020,Program
+Xin Jin,Johns Hopkins University,2020,Program
+Dina Katabi,Massachusetts Institute of Technology,2020,Program
+Charles Killian,Google,2020,Program
+Taesoo Kim,Georgia Institute of Technology,2020,Program
+Dejan Kostic,KTH Royal Institute of Technology,2020,Program
+Patrick P. C. Lee,The Chinese University of Hong Kong,2020,Program
+Andrew Moore,Cambridge University,2020,Program
+Ravi Netravali,"University of California, Los Angeles",2020,Program
+Jitendra Padhye,Microsoft Research,2020,Program
+Aurojit Panda,New York University,2020,Program
+KyoungSoo Park,Korea Advanced Institute of Science and Technology (KAIST),2020,Program
+Bryan Parno,Carnegie Mellon University,2020,Program
+Simon Peter,The University of Texas at Austin,2020,Program
+Amar Phanishayee,Microsoft Research,2020,Program
+Ramachandran Ramjee,Microsoft Research,2020,Program
+Cole Schlesinger,Barefoot Networks,2020,Program
+Aaron Schulman,"University of California, San Diego",2020,Program
+Vyas Sekar,Carnegie Mellon University,2020,Program
+Ankit Singla,ETH Zurich,2020,Program
+Anirudh Sivaraman,New York University,2020,Program
+Lalith Suresh,VMware Research,2020,Program
+Renata Teixeira,Inria,2020,Program
+Carmela Troncoso,École Polytechnique Fédérale de Lausanne (EPFL),2020,Program
+Amin Vahdat,Google,2020,Program
+Laurent Vanbever,ETH Zurich,2020,Program
+Rashmi Vinayak,Carnegie Mellon University,2020,Program
+Mythili Vutukuru,Indian Institute of Technology Bombay,2020,Program
+Meg Walraed-Sullivan,Set Your Intention,2020,Program
+Hakim Weatherspoon,Cornell University,2020,Program
+Keith Winstein,Stanford University,2020,Program
+Ding Yuan,University of Toronto,2020,Program
+Eitan Zahavi,Mellanox Technologies,2020,Program
+Ellen Zegura,Georgia Institute of Technology,2020,Program
+Ben Zhao,University of Chicago,2020,Program
+Lin Zhong,Rice University,2020,Program
+Fadel Adib,Massachusetts Institute of Technology,2021,Program
+Rachit Agarwal,Cornell University,2021,Program
+Irfan Ahmad,Magnition,2021,Program
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2021,Program
+Mahesh Balakrishnan,Facebook,2021,Program
+Aruna Balasubramanian,Stony Brook University,2021,Program
+Sujata Banerjee,VMware,2021,Program
+Suman Banerjee,University of Wisconsin—Madison,2021,Program
+Theo Benson,Brown University,2021,Program
+Dinesh Bharadia,"University of California, San Diego",2021,Program
+Pramod Bhatotia,TU Munich,2021,Program
+Olivier Bonaventure,Université catholique de Louvain,2021,Program
+Joseph Bonneau,New York University,2021,Program
+Matthew Caesar 0001,University of Illinois at Urbana–Champaign,2021,Program
+Ang Chen,Rice University,2021,Program
+Bo Chen,Meraki,2021,Program
+Kai Chen,Hong Kong University of Science & Technology,2021,Program
+Mosharaf Chowdhury,University of Michigan,2021,Program
+Asaf Cidon,Columbia University,2021,Program
+Italo Cunha,Universidade Federal de Minas Gerais,2021,Program
+Nandita Dukkipati,Google,2021,Program
+Zakir Durumeric,Stanford University,2021,Program
+Lars Eggert,NetApp,2021,Program
+Manya Ghobadi,Massachusetts Institute of Technology,2021,Program
+Shyam Gollakota,University of Washington,2021,Program
+Haryadi Gunawi,University of Chicago,2021,Program
+Arpit Gupta,"University of California, Santa Barbara",2021,Program
+Indranil Gupta,University of Illinois at Urbana–Champaign,2021,Program
+Hamed Haddadi,Imperial College London,2021,Program
+Andreas Haeberlen,University of Pennsylvania,2021,Program
+Dongsu Han,Korea Advanced Institute of Science and Technology (KAIST),2021,Program
+Haitham Hassanieh,University of Illinois at Urbana–Champaign,2021,Program
+Ryan Huang,Johns Hopkins University,2021,Program
+Keon Jang,Max Planck Institute for Software Systems,2021,Program
+Junchen Jiang,University of Chicago,2021,Program
+Anurag Khandelwal,Yale University,2021,Program
+Changhoon Kim,Barefoot Networks,2021,Program
+Dejan Kostic,KTH Royal Institute of Technology,2021,Program
+Haonan Lu,Princeton University and Microsoft Research,2021,Program
+Morley Mao,University of Michigan,2021,Program
+Shuai Mu,Stony Brook University,2021,Program
+Gilles Muller,Inria,2021,Program
+Rajalakshmi Nandakumar,Cornell University,2021,Program
+Ravi Netravali,"University of California, Los Angeles",2021,Program
+Rishab Nithyanand,University of Iowa,2021,Program
+Dave Oran,Independent,2021,Program
+Dan Pei,Tsinghua University,2021,Program
+Barath Raghavan,University of Southern California,2021,Program
+Costin Raiciu,Universitatea Politehnica Bucuresti,2021,Program
+Jennifer Rexford,Princeton University,2021,Program
+Chris Rossbach,The University of Texas at Austin,2021,Program
+Michael Schapira,The Hebrew University of Jerusalem,2021,Program
+Eric Schkufza,VMware,2021,Program
+Siddhartha Sen,Microsoft Research,2021,Program
+Srinivasan Seshan,Carnegie Mellon University,2021,Program
+Rob Sherwood,Facebook,2021,Program
+Alex Snoeren,"University of California, San Diego",2021,Program
+Ryan Stutsman,University of Utah,2021,Program
+Srikanth Sundaresan,Facebook,2021,Program
+Laurent Vanbever,ETH Zurich,2021,Program
+Peter Varman,Rice University,2021,Program
+Matteo Varvello,Brave Software,2021,Program
+Joerg Widmer,IMDEA,2021,Program
+Yongqiang Xiong,Microsoft Research Asia,2021,Program
+Minlan Yu,Harvard University,2021,Program
+Matei Zaharia,Stanford University,2021,Program
+Irene Zhang,Microsoft Research,2021,Program
+Yiying Zhang,"University of California, San Diego",2021,Program
+Lin Zhong,Rice University,2021,Program
+Noa Zilberman,University of Oxford,2021,Program
+Sangeetha Abdu-Jyothi,"University of California, Irvine, and VMware Research",2022,Program
+Fadel Adib,Massachusetts Institute of Technology,2022,Program
+Behnaz Arzani,Microsoft Research,2022,Program
+Anirudh Badam,Microsoft Research,2022,Program
+Mahesh Balakrishnan,Facebook,2022,Program
+Aruna Balasubramanian,Stony Brook University,2022,Program
+Hitesh Ballani,Microsoft Research,2022,Program
+Sujata Banerjee,VMware Research,2022,Program
+Theo Benson,Brown University,2022,Program
+Matthew Caesar,University of Illinois at Urbana–Champaign,2022,Program
+Vijay Chidambaram,The University of Texas at Austin,2022,Program
+Asaf Cidon,Columbia University,2022,Program
+Angela Demke Brown,University of Toronto,2022,Program
+Fahad Dogar,Tufts University,2022,Program
+Giulia Fanti,Carnegie Mellon University,2022,Program
+Rodrigo Fonseca,Microsoft Research,2022,Program
+Manya Ghobadi,Massachusetts Institute of Technology,2022,Program
+Soudeh Ghorbani,Johns Hopkins University,2022,Program
+Phillipa Gill,Google,2022,Program
+Brighten Godfrey,University of Illinois at Urbana–Champaign and VMware,2022,Program
+Shyam Gollakota,University of Washington,2022,Program
+Ramesh Govindan,University of Southern California,2022,Program
+Chuanxiong Guo,ByteDance,2022,Program
+Andreas Haeberlen,University of Pennsylvania,2022,Program
+Kurtis Heimerl,University of Washington,2022,Program
+Wenjun Hu,Yale University,2022,Program
+Kyle Jamieson,Princeton University,2022,Program
+Junchen Jiang,University of Chicago,2022,Program
+Anuj Kalia,Microsoft Research,2022,Program
+Anurag Khandelwal,Yale University,2022,Program
+Ana Klimovic,ETH Zurich,2022,Program
+Dejan Kostic,KTH Royal Institute of Technology,2022,Program
+Franck Le,IBM Research,2022,Program
+Kate Lin,National Chiao Tung University,2022,Program
+Zaoxing Alan Liu,Boston University,2022,Program
+Jay Lorch,Microsoft Research,2022,Program
+Jonathan Mace,Max Planck Institute for Software Systems (MPI-SWS),2022,Program
+Harsha Madhyastha,University of Michigan,2022,Program
+Aurojit Panda,New York University,2022,Program
+Kyoongsoo Park,Korea Advanced Institute of Science and Technology (KAIST),2022,Program
+Chunyi Peng,Purdue University,2022,Program
+Ben Pfaff,VMware Research,2022,Program
+George Porter,"University of California, San Diego",2022,Program
+Costin Raiciu,University Politehnica of Bucharest and Correct Networks,2022,Program
+Robert Ricci,University of Utah,2022,Program
+Michael Schapira,The Hebrew University of Jerusalem,2022,Program
+Stefan Schmid,Technische Universität Berlin and University of Vienna,2022,Program
+Brent Stephens,University of Utah,2022,Program
+Laurent Vanbever,ETH Zurich,2022,Program
+Shivaram Venkataraman,University of Wisconsin—Madison,2022,Program
+David Walker,Princeton University,2022,Program
+Jia Wang,AT&T Labs,2022,Program
+Michael Wei,VMware Research,2022,Program
+John Wilkes,Google,2022,Program
+Xiaowei Yang,Duke University,2022,Program
+Minlan Yu,Harvard University,2022,Program
+Ellen Zegura,Georgia Institute of Technology,2022,Program
+Ying Zhang,Facebook,2022,Program
+Yiying Zhang,"University of California, San Diego",2022,Program
+Ben Zhao,University of Chicago,2022,Program
+Wenting Zheng,Carnegie Mellon University,2022,Program
+Lin Zhong,Yale University,2022,Program
+Danyang Zhuo,Duke University,2022,Program
+Sangeetha Abdu-Jyothi,"University of California, Irvine, and VMware Research",2023,Program
+Fadel Adib,Massachusetts Institute of Technology,2023,Program
+Rachit Agarwal,Cornell University,2023,Program
+Aditya Akella,The University of Texas at Austin,2023,Program
+Deniz Altinbuken,Google,2023,Program
+Ganesh Ananthanarayanan,Microsoft Research,2023,Program
+Maria Apostolaki,Princeton University,2023,Program
+Katerina Argyraki,EPFL,2023,Program
+Behnaz Arzani,Microsoft Research,2023,Program
+Adam Belay,Massachusetts Institute of Technology,2023,Program
+Ken Birman,Cornell University,2023,Program
+Matthew Caesar,University of Illinois at Urbana–Champaign,2023,Program
+Marco Canini,KAUST,2023,Program
+Ranveer Chandra,Microsoft Research,2023,Program
+Ang Chen,Rice University,2023,Program
+Paolo Costa,Microsoft Research,2023,Program
+Murat Demirbas,Amazon,2023,Program
+Nandita Dukkipati,Google,2023,Program
+Ramakrishnan Durairajan,University of Oregon,2023,Program
+Giuila Fanti,Carnegie Mellon University,2023,Program
+Anja Feldmann,Max Planck Institute for Informatics,2023,Program
+Bryan Ford,EPFL,2023,Program
+Yashar Ganjali,"University of Toronto, Huawei Canada",2023,Program
+Mojgan Ghasemi,Google,2023,Program
+Yasaman Ghasempour,Princeton University,2023,Program
+Soudeh Ghorbani,Johns Hopkins University,2023,Program
+Shyam Gollakota,University of Washington,2023,Program
+Prateesh Goyal,Microsoft Research,2023,Program
+Arpit Gupta,"University of California, Santa Barbara",2023,Program
+Indranil Gupta,University of Illinois at Urbana–Champaign,2023,Program
+Hamed Haddadi,Imperial College London,2023,Program
+Andreas Haeberlen,University of Pennsylvania,2023,Program
+Dongsu Han,Korea Advanced Institute of Science and Technology (KAIST),2023,Program
+Haitham Hassanieh,University of Illinois at Urbana–Champaign,2023,Program
+Michio Honda,University of Edinburgh,2023,Program
+Jon Howell,VMware Research,2023,Program
+Wenjun Hu,Yale University,2023,Program
+Rebecca Isaacs,Amazon,2023,Program
+Anand Iyer,Microsoft Research,2023,Program
+Vikram Iyer,University of Washington,2023,Program
+Zhihao Jia,Carnegie Mellon University,2023,Program
+Junchen Jiang,University of Chicago,2023,Program
+Xin Jin,Peking University,2023,Program
+Srikanth Kandula,Microsoft Research,2023,Program
+Sachin Katti,Stanford University,2023,Program
+Anurag Khandelwal,Yale University,2023,Program
+Song Min Kim,Korea Advanced Institute of Science and Technology (KAIST),2023,Program
+Marios Kogias,Imperial College London,2023,Program
+Dejan Kostic,KTH Royal Institute of Technology,2023,Program
+Gautam Kumar,Google,2023,Program
+Jeongkeun Lee,Intel,2023,Program
+Alan (Zaoxing) Liu,Boston University,2023,Program
+Grace Liu,NYU Shanghai,2023,Program
+Jay Lorch,Microsoft Research,2023,Program
+Harsha Madhyastha,University of Michigan,2023,Program
+Morley Z. Mao,University of Michigan,2023,Program
+James Mickens,Harvard University,2023,Program
+Radhika Mittal,University of Illinois at Urbana–Champaign,2023,Program
+Jayashree Mohan,Microsoft Research India,2023,Program
+Iqbal Mohomed,Samsung AI Center Toronto,2023,Program
+Shuai Mu,Stony Brook University,2023,Program
+Rajalakshmi Nandakumar,Cornell Tech,2023,Program
+Srinivas Narayana,Rutgers University,2023,Program
+Ravi Netravali,Princeton University,2023,Program
+Amy Ousterhout,"University of California, Berkeley",2023,Program
+Aurojit Panda,New York University,2023,Program
+Peter Pietzuch,Imperial College London,2023,Program
+Sanjay Rao,Purdue University,2023,Program
+Jennifer Rexford,Princeton University,2023,Program
+Nirupam Roy,"University of Maryland, College Park",2023,Program
+Ahmed Saeed,Georgia Institute of Technology,2023,Program
+Raja Sambasivan,Tufts University,2023,Program
+Stefan Schmid,Technische Universität Berlin,2023,Program
+Aaron Schulman,"University of California, San Diego",2023,Program
+Siddhartha Sen,Microsoft Research,2023,Program
+Srinivasan Seshan,Carnegie Mellon University,2023,Program
+Muhammad Shahbaz,Purdue University,2023,Program
+Rachee Singh,Microsoft Research,2023,Program
+Dimitrios Skarlatos 0002,Carnegie Mellon University,2023,Program
+Alex Snoeren,"University of California, San Diego",2023,Program
+Brent Stephens,University of Utah,2023,Program
+Mina Tahmasbi,Cornell University,2023,Program
+Amy Tai,Google,2023,Program
+Doug Terry,Amazon,2023,Program
+Amin Vahdat,Google,2023,Program
+Hakim Weatherspoon,Cornell University,2023,Program
+Michael Wei,VMware Research,2023,Program
+John Wilkes,Google,2023,Program
+Keith Winstein,Stanford University,2023,Program
+Yiting Xia,Max Planck Institute for Informatics,2023,Program
+Tianyin Xu,University of Illinois at Urbana–Champaign,2023,Program
+Neeraja Yadwadkar,The University of Texas at Austin,2023,Program
+Francis Yan,Microsoft Research,2023,Program
+Ellen Zegura,Georgia Institute of Technology,2023,Program
+Ennan Zhai,Alibaba,2023,Program
+Ying Zhang,Meta,2023,Program
+Ben Zhao,University of Chicago,2023,Program
+Zhizhen Zhong,Massachusetts Institute of Technology,2023,Program
+Danyang Zhuo,Duke University,2023,Program
+Casey Henderson,USENIX Association,2013,Steering
+Brian Noble,University of Michigan,2013,Steering
+Jennifer Rexford,Princeton University,2013,Steering
+Mike Schroeder,Microsoft Research,2013,Steering
+Alex C. Snoeren,"University of California, San Diego",2013,Steering
+Chandu Thekkath,Microsoft Research,2013,Steering
+Amin Vahdat,"University of California, San Diego",2013,Steering
+Casey Henderson,USENIX Association,2014,Steering
+Arvind Krishnamurthy,University of Washington,2014,Steering
+Brian Noble,University of Michigan,2014,Steering
+Jennifer Rexford,Princeton University,2014,Steering
+Mike Schroeder,Microsoft Research,2014,Steering
+Alex C. Snoeren,"University of California, San Diego",2014,Steering
+Chandu Thekkath,Microsoft Research,2014,Steering
+Nick Feamster,Princeton University,2015,Steering
+Casey Henderson,USENIX Association,2015,Steering
+Arvind Krishnamurthy,University of Washington,2015,Steering
+Brian Noble,University of Michigan,2015,Steering
+Jennifer Rexford,Princeton University,2015,Steering
+Mike Schroeder,Microsoft Research,2015,Steering
+Alex C. Snoeren,"University of California, San Diego",2015,Steering
+Paul Barham,Google,2016,Steering
+Nick Feamster,Princeton University,2016,Steering
+Casey Henderson,USENIX Association,2016,Steering
+Arvind Krishnamurthy,University of Washington,2016,Steering
+Brian Noble,University of Michigan,2016,Steering
+Jennifer Rexford,Princeton University,2016,Steering
+Alex C. Snoeren,"University of California, San Diego",2016,Steering
+Katerina Argyraki,EPFL,2017,Steering
+Paul Barham,Google,2017,Steering
+Nick Feamster,Princeton University,2017,Steering
+Casey Henderson,USENIX Association,2017,Steering
+Arvind Krishnamurthy,University of Washington,2017,Steering
+Jeff Mogul,Google,2017,Steering
+Brian Noble,University of Michigan,2017,Steering
+Timothy Roscoe,ETH Zurich,2017,Steering
+Alex C. Snoeren,"University of California, San Diego",2017,Steering
+Aditya Akella,University of Wisconsin–Madison,2018,Steering
+Katerina Argyraki,EPFL,2018,Steering
+Paul Barham,Google,2018,Steering
+Nick Feamster,Princeton University,2018,Steering
+Casey Henderson,USENIX Association,2018,Steering
+Jon Howell,Google,2018,Steering
+Arvind Krishnamurthy,University of Washington,2018,Steering
+Jeff Mogul,Google,2018,Steering
+Brian Noble,University of Michigan,2018,Steering
+Timothy Roscoe,ETH Zurich,2018,Steering
+Alex C. Snoeren,"University of California, San Diego",2018,Steering
+Aditya Akella,University of Wisconsin–Madison,2019,Steering
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2019,Steering
+Sujata Banerjee,VMware Research,2019,Steering
+Paul Barham,Google,2019,Steering
+Nick Feamster,Princeton University,2019,Steering
+Casey Henderson,USENIX Association,2019,Steering
+Jon Howell,VMware Research,2019,Steering
+Arvind Krishnamurthy,University of Washington,2019,Steering
+Jeff Mogul,Google,2019,Steering
+Brian Noble,University of Michigan,2019,Steering
+Timothy Roscoe,ETH Zurich,2019,Steering
+Srinivasan Seshan,Carnegie Mellon University,2019,Steering
+Aditya Akella,University of Wisconsin–Madison,2020,Steering
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2020,Steering
+Sujata Banerjee,VMware Research,2020,Steering
+Paul Barham,Google,2020,Steering
+Nick Feamster,University of Chicago,2020,Steering
+Casey Henderson,USENIX Association,2020,Steering
+Jon Howell,VMware Research,2020,Steering
+Arvind Krishnamurthy,University of Washington,2020,Steering
+Jay Lorch,Microsoft Research,2020,Steering
+Jeff Mogul,Google,2020,Steering
+Brian Noble,University of Michigan,2020,Steering
+Timothy Roscoe,ETH Zurich,2020,Steering
+Srinivasan Seshan,Carnegie Mellon University,2020,Steering
+Minlan Yu,Harvard University,2020,Steering
+Aditya Akella,University of Wisconsin–Madison,2021,Steering
+Sujata Banerjee,VMware Research,2021,Steering
+Paul Barham,Google,2021,Steering
+Nick Feamster,University of Chicago,2021,Steering
+Casey Henderson,USENIX Association,2021,Steering
+Jon Howell,VMware Research,2021,Steering
+Arvind Krishnamurthy,University of Washington,2021,Steering
+Jay Lorch,Microsoft Research,2021,Steering
+Jeff Mogul,Google,2021,Steering
+Brian Noble,University of Michigan,2021,Steering
+Timothy Roscoe,ETH Zurich,2021,Steering
+Srinivasan Seshan,Carnegie Mellon University,2021,Steering
+Minlan Yu,Harvard University,2021,Steering
+Aditya Akella,University of Wisconsin–Madison,2022,Steering
+Sujata Banerjee,VMware Research,2022,Steering
+Ranjita Bhagwan,Microsoft Research India,2022,Steering
+Casey Henderson,USENIX Association,2022,Steering
+Jon Howell,VMware Research,2022,Steering
+Arvind Krishnamurthy,University of Washington,2022,Steering
+Jay Lorch,Microsoft Research,2022,Steering
+James Mickens,Harvard University,2022,Steering
+Jeff Mogul,Google,2022,Steering
+George Porter,"University of California, San Diego",2022,Steering
+Timothy Roscoe,ETH Zurich,2022,Steering
+Srinivasan Seshan,Carnegie Mellon University,2022,Steering
+Renata Teixeira,Netflix,2022,Steering
+Minlan Yu,Harvard University,2022,Steering
+Aditya Akella,The University of Texas at Austin,2023,Steering
+Sujata Banerjee,VMware Research,2023,Steering
+Ranjita Bhagwan,Microsoft Research India,2023,Steering
+Casey Henderson,USENIX Association,2023,Steering
+Jon Howell,VMware Research,2023,Steering
+Arvind Krishnamurthy,University of Washington,2023,Steering
+Jay Lorch,Microsoft Research,2023,Steering
+James Mickens,Harvard University,2023,Steering
+Amar Phanishayee,Microsoft Research,2023,Steering
+George Porter,"University of California, San Diego",2023,Steering
+Vyas Sekar,Carnegie Mellon University,2023,Steering
+Renata Teixeira,Netflix,2023,Steering
+Minlan Yu,Harvard University,2023,Steering

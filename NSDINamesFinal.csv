@@ -1,0 +1,689 @@
+name,region,year,committee,DirectMatch,FuzzyMatch,Continent,GenderGuesser,Gender,Source
+Aditya Akella,University of Wisconsin—Madison,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne  (EPFL),2013,Program,,Female,Europe,female,Female,FuzzyMatch
+Suman Banerjee,University of Wisconsin—Madison,2013,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Matthew Caesar,University of Illinois at Urbana-Champaign,2013,Program,,Male,North America,male,Male,FuzzyMatch
+Jeff Chase,Duke University,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Rodrigo Fonseca,Brown University,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Bryan Ford,Yale University,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Mike Freedman,Princeton University,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Krishna Gummadi,Max Planck Institute for Software Systems (MPI-SWS),2013,Program,,Male,Europe,andy,Male,FuzzyMatch
+Rebecca Isaacs,Microsoft Research,2013,Program,Female,Female,North America,female,Female,FullNameMatch
+Jaeyeon Jung,Microsoft Research,2013,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Brad Karp,University College London,2013,Program,Male,Male,Europe,male,Male,FullNameMatch
+Ethan Katz-Bassett,University of Southern California,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Dejan Kostić,Institute IMDEA Networks,2013,Program,,Male,Europe,male,Male,FuzzyMatch
+Arvind Krishnamurthy,University of Washington,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Wenke Lee,Georgia Institute of Technology,2013,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Dave Levin,University of Maryland,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Philip Levis,Stanford University,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Ratul Mahajan,Microsoft Research,2013,Program,Male,Male,North America,unknown,Male,FullNameMatch
+James  Mickens,Microsoft Research,2013,Program,,Male,North America,male,Male,FuzzyMatch
+Andrew Moore,University of Cambridge,2013,Program,Male,Male,Europe,male,Male,FullNameMatch
+Richard Mortier,University of Nottingham,2013,Program,Male,Male,Europe,male,Male,FullNameMatch
+Michael Piatek,Google,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+George Porter,"University of California, San Diego",2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Luigi Rizzo,Università di Pisa,2013,Program,Male,Male,Europe,male,Male,FullNameMatch
+Lakshminarayanan Subramanian,New York University,2013,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Renata Teixeira,CNRS and UPMC Sorbonne Universités,2013,Program,Female,Female,Europe,female,Female,FullNameMatch
+Kobus Van der Merwe,University of Utah,2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Michael Walfish,"University of Texas, Austin",2013,Program,Male,Male,North America,male,Male,FullNameMatch
+Heather Zheng,"University of California, Santa Barbara",2013,Program,Female,Female,North America,female,Female,FullNameMatch
+Katerina Argyraki,EPFL,2014,Program,,Female,Europe,female,Female,FuzzyMatch
+Aruna Balasubramanian,University of Washington,2014,Program,Female,Female,North America,female,Female,FullNameMatch
+Miguel Castro,Microsoft Research Cambridge,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Prabal Dutta,University of Michigan,2014,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Mike Freedman,Princeton University,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Ali  Ghodsi,"KTH Royal Institute of Technology and University of California, Berkeley",2014,Program,,Male,North America,male,Male,FuzzyMatch
+Brighten Godfrey,University of Illinois at Urbana-Champaign,2014,Program,,Male,North America,unknown,Male,FuzzyMatch
+Sharon Goldberg,Boston University,2014,Program,Female,Female,North America,female,Female,FullNameMatch
+Shyamnath Gollakota,University of Washington,2014,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ramesh Govindan,University of Southern California,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Saikat Guha,Microsoft Research India,2014,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Kyle Jamieson,University College London,2014,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Ethan Katz-Bassett,University of Southern California,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+S. Keshav,University of Waterloo,2014,Program,,Male,North America,unknown,Male,FuzzyMatch
+Changhoon Kim,Microsoft,2014,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Dejan Kostić,IMDEA Networks,2014,Program,,Male,Europe,male,Male,FuzzyMatch
+T. V. Lakshman,Bell Labs,2014,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Nikolaos Laoutaris,Telefónica,2014,Program,Male,Male,Europe,male,Male,FullNameMatch
+Bruce Maggs,Duke University,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+KyoungSoo Park,KAIST,2014,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+George Porter,"University of California, San Diego",2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Lili Qiu,University of Texas,2014,Program,Female,Female,North America,female,Female,FullNameMatch
+Sanjay Rao,Purdue University,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Jennifer Rexford,Princeton University,2014,Program,Female,Female,North America,female,Female,FullNameMatch
+Vyas Sekar,Stony Brook University,2014,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Srinivasan Seshan,Carnegie Mellon University,2014,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Jonathan Smith,University of Pennsylvania,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Nina Taft,Technicolor,2014,Program,Female,Female,North America,female,Female,FullNameMatch
+Amin Vahdat,"Google and University of California, San Diego",2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Walter Willinger,Niksun,2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Yuan Yu,Microsoft,2014,Program,Male,Male,North America,andy,Male,FullNameMatch
+Ben Zhao,"University of California, Santa Barbara",2014,Program,Male,Male,North America,male,Male,FullNameMatch
+Atul Adya,Google,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Aditya Akella,University of Wisconsin–Madison,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,EPFL,2015,Program,,Female,Europe,female,Female,FuzzyMatch
+Hitesh Ballani,Microsoft Research Cambridge,2015,Program,Male,Male,Europe,unknown,Male,FullNameMatch
+Suman Banerjee,University of Wisconsin–Madison,2015,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Jeff Chase,Duke University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Jeff Dean,Google,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Prabal Dutta,University of Michigan,2015,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Nick Feamster,Princeton University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Rodrigo Fonseca,Brown University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Deepak Ganesan,University of Massachusetts Amherst,2015,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Sharon Goldberg,Boston University,2015,Program,Female,Female,North America,female,Female,FullNameMatch
+Andreas Haeberlen,University of Pennsylvania,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Mark Handley,University College London,2015,Program,Male,Male,Europe,male,Male,FullNameMatch
+Jon Howell,Microsoft Research Redmond,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Jaeyeon Jung,Microsoft Research Redmond,2015,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Sachin Katti,Stanford University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Ethan Katz-Bassett,University of Southern California,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Kimberly Keeton,HP Labs,2015,Program,Female,Female,North America,mostly_female,Female,FullNameMatch
+Changhoon Kim,Barefoot Networks,2015,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Eddie Kohler,Harvard University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Dejan Kostic,KTH Royal Institute of Technology,2015,Program,Male,Male,Europe,male,Male,FullNameMatch
+Kate Lin,Academia Sinica Taiwan,2015,Program,,Female,Asia,female,Female,FuzzyMatch
+David Maltz,Microsoft Redmond,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Petros Maniatis,Google,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Alan Mislove,Northeastern University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Richard Mortier,University of Nottingham,2015,Program,Male,Male,Europe,male,Male,FullNameMatch
+Dushyanth Narayanan,Microsoft Research Cambridge,2015,Program,Male,Male,Europe,unknown,Male,FullNameMatch
+Venkat Padmanabhan,Microsoft Research India,2015,Program,,Male,Asia,male,Male,FuzzyMatch
+KyoungSoo Park,KAIST,2015,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+George Porter,"University of California, San Diego",2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Rama Ramasubramanian,Google,2015,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Franzi Roesner,University of Washington,2015,Program,Female,Female,North America,female,Female,FullNameMatch
+Srinivasan Seshan,Carnegie Mellon University,2015,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Neil Spring,University of Maryland,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Lakshminarayanan Subramanian,New York University,2015,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Kobus van der Merwe,University of Utah,2015,Program,,Male,North America,male,Male,FuzzyMatch
+Robbert van Renesse,Cornell University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Geoff Voelker,"University of California, San Diego",2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Hakim Weatherspoon,Cornell University,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Matei Zaharia,MIT CSAIL and Databricks,2015,Program,Male,Male,North America,male,Male,FullNameMatch
+Nickolai Zeldovich,MIT CSAIL,2015,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Lidong Zhou,Microsoft Research Asia,2015,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Aditya Akella,University of Wisconsin—Madison,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Mohammad Alizadeh,Massachusetts Institute of Technology,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Mona Attariyan,Google,2016,Program,Female,Female,North America,female,Female,FullNameMatch
+Hari Balakrishnan,Massachusetts Institute of Technology,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Mahesh Balakrishnan,Yale University,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Aruna Balasubramanian,Stony Brook University,2016,Program,Female,Female,North America,female,Female,FullNameMatch
+Sujata Banerjee,HP Labs,2016,Program,Female,Female,North America,female,Female,FullNameMatch
+Paul Barford,University of Wisconsin—Madison and comScore,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Ranjita Bhagwan,Microsoft Research India,2016,Program,Female,Female,Asia,unknown,Female,FullNameMatch
+Nathan Bronson,Facebook,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Paolo Costa,Microsoft Research,2016,Program,Male,Male,Europe,male,Male,FullNameMatch
+Paul Francis,Max Planck Institute for Software Systems (MPI-SWS),2016,Program,Male,Male,Europe,male,Male,FullNameMatch
+Monia (Manya) Ghobadi,Microsoft Research,2016,Program,Female,Female,North America,female,Female,FullNameMatch
+Shyam Gollakota,University of Washington,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Jon Howell,Google,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Kyle Jamieson,Princeton University,2016,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Srikanth Kandula,Microsoft,2016,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Brad Karp,University College London,2016,Program,Male,Male,Europe,male,Male,FullNameMatch
+S. Keshav,University of Waterloo,2016,Program,,Male,North America,unknown,Male,FuzzyMatch
+Changhoon Kim,Barefoot Networks,2016,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ramakrishna Kotla,Amazon,2016,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Jinyang Li,New York University,2016,Program,Female,Female,North America,unknown,Female,FullNameMatch
+David Lie,University of Toronto,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Kate Ching-Ju Lin,"Academia Sinica, Taiwan",2016,Program,Female,Female,Asia,female,Female,FullNameMatch
+Wyatt Lloyd,University of Southern California,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Jay Lorch,Microsoft Research,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Ratul Mahajan,Microsoft Research,2016,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Prateek Mittal,Princeton University,2016,Program,,Male,North America,unknown,Male,FuzzyMatch
+Thomas Moscibroda,Microsoft Research,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+David Oran,Cisco Systems,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Oriana Riva,Microsoft Research,2016,Program,Female,Female,North America,female,Female,FullNameMatch
+Vyas Sekar,Carnegie Mellon University,2016,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Siddhartha Sen,Microsoft Research,2016,Program,,Male,North America,unknown,Male,FuzzyMatch
+Srinivasan Seshan,Carnegie Mellon University,2016,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ankit Singla,ETH Zürich,2016,Program,Male,Male,Europe,male,Male,FullNameMatch
+Jonathan Smith,University of Pennsylvania,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Alex Snoeren,"University of California, San Diego",2016,Program,,Male,North America,male,Male,FuzzyMatch
+Kobus Van der Merwe,University of Utah,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Laurent Vanbever,ETH Zürich,2016,Program,Male,Male,Europe,male,Male,FullNameMatch
+Matt Welsh,Google,2016,Program,Male,Male,North America,male,Male,FullNameMatch
+Sharad Agarwal,Microsoft,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Thomas E. Anderson,University of Washington,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Andrea Arpaci-Dusseau,University of Wisconsin—Madison,2017,Program,Female,Female,North America,female,Female,FullNameMatch
+Anirudh Badam,Microsoft,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Mahesh Balakrishnan,Yale University,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Fabian Bustamante,Northwestern University,2017,Program,,Male,North America,male,Male,FuzzyMatch
+Ranveer Chandra,Microsoft,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+David Choffnes,Northeastern University,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Romit Roy Choudhury,University of Illinois at Urbana-Champaign,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Mosharaf Chowdhury,University of Michigan,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Mike Dahlin,Google,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Anja Feldmann,Technische Universität Berlin,2017,Program,Female,Female,Europe,female,Female,FullNameMatch
+Rodrigo Fonseca,Brown University,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Nate Foster,Cornell University,2017,Program,Male,Male,North America,female,Male,FullNameMatch
+Deepak Ganesan,University of Massachusetts Amherst,2017,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Phillipa Gill,University of Massachusetts Amherst,2017,Program,Female,Female,North America,female,Female,FullNameMatch
+Srikanth Kandula,Microsoft,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Teemu Koponen,Styra,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Sanjeev Kumar,Uber,2017,Program,Male,Male,Asia,male,Male,FullNameMatch
+Swarun Kumar,Carnegie Mellon University,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Wyatt Lloyd,University of Southern California,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Boon Thau Loo,University of Pennsylvania,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Jay Lorch,Microsoft,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Ratul Mahajan,Microsoft,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Dahlia Malkhi,VMware,2017,Program,Female,Female,North America,female,Female,FullNameMatch
+David Maltz,Microsoft,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Z. Morley Mao,University of Michigan,2017,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Michael Mitzenmacher,Harvard University,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Jason Nieh,Columbia University,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+George Porter,"University of California, San Diego",2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Luigi Rizzo,University of Pisa,2017,Program,Male,Male,Europe,male,Male,FullNameMatch
+Srini Seshan,Carnegie Mellon University,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Anees Shaikh,Google,2017,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ankit Singla,ETH Zurich,2017,Program,Male,Male,Europe,male,Male,FullNameMatch
+Robbert van Renesse,Cornell University,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Geoff Voelker,"University of California, San Diego",2017,Program,Male,Male,North America,male,Male,FullNameMatch
+David Wetherall,Google,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Adam Wierman,California Institute of Technology,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+John Wilkes,Google,2017,Program,Male,Male,North America,male,Male,FullNameMatch
+Minlan Yu,University of Southern California,2017,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Heather Zheng,"University of California, Santa Barbara",2017,Program,Female,Female,North America,female,Female,FullNameMatch
+Lin Zhong,Rice University,2017,Program,Male,Male,North America,female,Male,FullNameMatch
+Rachit Agarwal,Cornell University,2018,Program,,Male,North America,unknown,Male,FuzzyMatch
+Mohamed Alizadeh,MIT,2018,Program,,Male,North America,male,Male,FuzzyMatch
+Katerina Argyraki,EPFL,2018,Program,,Female,Europe,female,Female,FuzzyMatch
+Ranjita Bhagwan,Microsoft Research,2018,Program,Female,Female,Asia,unknown,Female,FullNameMatch
+Marco Canini,KAUST,2018,Program,Male,Male,Asia,male,Male,FullNameMatch
+Kai Chen,HKUST,2018,Program,,Male,Asia,male,Male,FuzzyMatch
+Romit Roy Choudhury,University of Illinois at Urbana-Champaign,2018,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Mike Freedman,Princeton University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Roxana Geambasu,Columbia University,2018,Program,Female,Female,North America,female,Female,FullNameMatch
+Shyam Gollakota,University of Washington,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Ramesh Govindan,USC,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Dongsu Han,KAIST,2018,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Jon Howell,Google,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Kyle Jamieson,Princeton University,2018,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Michael Kaminsky,Intel Labs,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Srikanth Kandula,Microsoft,2018,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Srinivas Keshav,University of Waterloo,2018,Program,,Male,Europe,male,Male,FuzzyMatch
+Kyu-Han Kim,Hewlett Packard Labs,2018,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Eddie Kohler,Harvard University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Wyatt Lloyd,Princeton University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Boon Thau Loo,University of Pennsylvania,2018,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Jay Lorch,Microsoft,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Harsha V. Madhyastha,University of Michigan,2018,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Dahlia Malkhi,VMware Research,2018,Program,Female,Female,North America,female,Female,FullNameMatch
+KyongSoo Park,KAIST,2018,Program,,Male,Asia,unknown,Male,FuzzyMatch
+Amar Phanishayee,Microsoft Research,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Raluca Ada Popa,"University of California, Berkeley",2018,Program,Female,Female,North America,female,Female,FullNameMatch
+George Porter,"University of California, San Diego",2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Lili Qiu,UT Austin,2018,Program,Female,Female,North America,female,Female,FullNameMatch
+Costin Raiciu,University Politehnica of Bucharest,2018,Program,Male,Male,Europe,male,Male,FullNameMatch
+Timothy Roscoe,ETH Zurich,2018,Program,Male,Male,Europe,male,Male,FullNameMatch
+Michael Schapira,Hebrew University,2018,Program,Male,Male,Asia,male,Male,FullNameMatch
+Cole Schlesinger,Barefoot Networks,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Vyas Sekar,Carnegie Mellon University,2018,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Emin Gun Sirer,Cornell University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Hakim Weatherspoon,Cornell University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Keith Winstein,Stanford University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Timothy Wood 0001,George Washington University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Minlan Yu,Yale University,2018,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Matei Zaharia,Stanford University,2018,Program,Male,Male,North America,male,Male,FullNameMatch
+Lin Zhong,Rice University,2018,Program,Male,Male,North America,female,Male,FullNameMatch
+Fadel Adib,Massachusetts Institute of Technology,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Aditya Akella,University of Wisconsin—Madison,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2019,Program,,Female,Europe,female,Female,FuzzyMatch
+Aruna Balasubramanian,Stony Brook University,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Sujata Banerjee,VMware Research,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Paul Barham,Google,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Ranjita Bhagwan,Microsoft Research,2019,Program,Female,Female,Asia,unknown,Female,FullNameMatch
+Kai Chen,Hong Kong University of Science and Technology,2019,Program,,Male,Asia,male,Male,FuzzyMatch
+Vijay Chidambaram,The University of Texas at Austin and VMware Research,2019,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Mosharaf Chowdhury,University of Michigan,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Asaf Cidon,Barracuda Networks,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Anja Feldmann,Technische Universität Berlin,2019,Program,Female,Female,Europe,female,Female,FullNameMatch
+Bryan Ford,École Polytechnique Fédérale de Lausanne (EPFL),2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Roxana Geambasu,Columbia University,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Manya Ghobadi,Microsoft Research,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Jana Giceva,Imperial College London,2019,Program,Female,Female,Europe,female,Female,FullNameMatch
+Ronghui Gu,Columbia University,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Haryadi Gunawi,University of Chicago,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Andreas Haeberlen,University of Pennsylvania,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Haitham Hassanieh,University of Illinois at Urbana-Champaign,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Jon Howell,VMware Research,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Rebecca Isaacs,Twitter,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Xin Jin,Johns Hopkins University,2019,Program,Male,Male,Asia,andy,Male,FullNameMatch
+Srikanth Kandula,Microsoft Research,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Manos Kapritsos,University of Michigan,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Dejan Kostić,KTH Royal Institute of Technology,2019,Program,,Male,Europe,male,Male,FuzzyMatch
+Ramakrishna Kotla,Amazon Web Services,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Hongqiang Liu,Alibaba,2019,Program,,Male,Asia,unknown,Male,FuzzyMatch
+Harsha V. Madhyastha,University of Michigan and Google,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Dahlia Malkhi,VMware Research,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Allison Mankin,Salesforce,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Derek Murray,Google,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Aurojit Panda,New York University,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+KyoungSoo Park,Korea Advanced Institute of Science and Technology (KAIST),2019,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Amar Phanishayee,Microsoft Research,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Raluca Ada Popa,"University of California, Berkeley",2019,Program,Female,Female,North America,female,Female,FullNameMatch
+George Porter,"University of California, San Diego",2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Lili Qiu,The University of Texas at Austin,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+K. K. Ramakrishnan,"University of California, Riverside",2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Michael Schapira,Hebrew University of Jerusalem,2019,Program,Male,Male,Asia,male,Male,FullNameMatch
+Cole Schlesinger,Amazon Web Services,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Vyas Sekar,Carnegie Mellon University,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ankit Singla,ETH Zurich,2019,Program,Male,Male,Europe,male,Male,FullNameMatch
+Anirudh Sivaraman,New York University,2019,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Michael Stumm,University of Toronto,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Ryan Stutsman,University of Utah,2019,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Geoff Voelker,"University of California, San Diego",2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Hakim Weatherspoon,Cornell University,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+John Wilkes,Google,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Keith Winstein,Stanford University,2019,Program,Male,Male,North America,male,Male,FullNameMatch
+Jie Xiong,University of Massachusetts Amherst,2019,Program,,Male,North America,andy,Male,FuzzyMatch
+James Hongyi Zeng,Facebook,2019,Program,,Male,North America,male,Male,FuzzyMatch
+Irene Zhang,Microsoft Research,2019,Program,Female,Female,North America,female,Female,FullNameMatch
+Xinyu Zhang,"University of California, San Diego",2019,Program,,Male,North America,unknown,Male,FuzzyMatch
+Lin Zhong,Rice University,2019,Program,Male,Male,North America,female,Male,FullNameMatch
+Rachit Agarwal,Cornell University,2020,Program,,Male,North America,unknown,Male,FuzzyMatch
+Aditya Akella,University of Wisconsin—Madison,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Mohammad Alizadeh,Massachusetts Institute of Technology,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Andrea Arpaci-Dusseau,University of Wisconsin—Madison,2020,Program,Female,Female,North America,female,Female,FullNameMatch
+Behnaz Arzani,Microsoft Research,2020,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Hitesh Ballani,Microsoft Research,2020,Program,Male,Male,Europe,unknown,Male,FullNameMatch
+Sujata Banerjee,VMware Research,2020,Program,Female,Female,North America,female,Female,FullNameMatch
+Ivan Beschastnikh,University of British Columbia,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Dinesh Bharadia,"University of California, San Diego",2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Fabian Bustamante,Northwestern University,2020,Program,,Male,North America,male,Male,FuzzyMatch
+David Choffnes,Northeastern University,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Romit Roy Choudhury,University of Illinois at Urbana–Champaign,2020,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Asaf Cidon,Columbia University,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Heming Cui,University of Hong Kong,2020,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Nate Foster,Cornell University,2020,Program,Male,Male,North America,female,Male,FullNameMatch
+Manya Ghobadi,Massachusetts Institute of Technology,2020,Program,Female,Female,North America,female,Female,FullNameMatch
+Arpit Gupta,"University of California, Santa Barbara",2020,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Hamed Haddadi,Imperial College London,2020,Program,Male,Male,Europe,male,Male,FullNameMatch
+Rebecca Isaacs,Twitter,2020,Program,Female,Female,North America,female,Female,FullNameMatch
+Kyle Jamieson,Princeton University,2020,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Xin Jin,Johns Hopkins University,2020,Program,Male,Male,Asia,andy,Male,FullNameMatch
+Dina Katabi,Massachusetts Institute of Technology,2020,Program,Female,Female,North America,female,Female,FullNameMatch
+Charles Killian,Google,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Taesoo Kim,Georgia Institute of Technology,2020,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Dejan Kostic,KTH Royal Institute of Technology,2020,Program,Male,Male,Europe,male,Male,FullNameMatch
+Patrick P. C. Lee,The Chinese University of Hong Kong,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Andrew Moore,Cambridge University,2020,Program,Male,Male,Europe,male,Male,FullNameMatch
+Ravi Netravali,"University of California, Los Angeles",2020,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Jitendra Padhye,Microsoft Research,2020,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Aurojit Panda,New York University,2020,Program,Male,Male,North America,unknown,Male,FullNameMatch
+KyoungSoo Park,Korea Advanced Institute of Science and Technology (KAIST),2020,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Bryan Parno,Carnegie Mellon University,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Simon Peter,The University of Texas at Austin,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Amar Phanishayee,Microsoft Research,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Ramachandran Ramjee,Microsoft Research,2020,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Cole Schlesinger,Barefoot Networks,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Aaron Schulman,"University of California, San Diego",2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Vyas Sekar,Carnegie Mellon University,2020,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ankit Singla,ETH Zurich,2020,Program,Male,Male,Europe,male,Male,FullNameMatch
+Anirudh Sivaraman,New York University,2020,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Lalith Suresh,VMware Research,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Renata Teixeira,Inria,2020,Program,Female,Female,Europe,female,Female,FullNameMatch
+Carmela Troncoso,École Polytechnique Fédérale de Lausanne (EPFL),2020,Program,Female,Female,Europe,female,Female,FullNameMatch
+Amin Vahdat,Google,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Laurent Vanbever,ETH Zurich,2020,Program,Male,Male,Europe,male,Male,FullNameMatch
+Rashmi Vinayak,Carnegie Mellon University,2020,Program,Female,Female,North America,female,Female,FullNameMatch
+Mythili Vutukuru,Indian Institute of Technology Bombay,2020,Program,Female,Female,Asia,unknown,Female,FullNameMatch
+Meg Walraed-Sullivan,Set Your Intention,2020,Program,Female,Female,North America,female,Female,FullNameMatch
+Hakim Weatherspoon,Cornell University,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Keith Winstein,Stanford University,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Ding Yuan,University of Toronto,2020,Program,Male,Male,North America,andy,Male,FullNameMatch
+Eitan Zahavi,Mellanox Technologies,2020,Program,Male,Male,Asia,male,Male,FullNameMatch
+Ellen Zegura,Georgia Institute of Technology,2020,Program,,Female,North America,female,Female,FuzzyMatch
+Ben Zhao,University of Chicago,2020,Program,Male,Male,North America,male,Male,FullNameMatch
+Lin Zhong,Rice University,2020,Program,Male,Male,North America,female,Male,FullNameMatch
+Fadel Adib,Massachusetts Institute of Technology,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Rachit Agarwal,Cornell University,2021,Program,,Male,North America,unknown,Male,FuzzyMatch
+Irfan Ahmad,Magnition,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2021,Program,,Female,Europe,female,Female,FuzzyMatch
+Mahesh Balakrishnan,Facebook,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Aruna Balasubramanian,Stony Brook University,2021,Program,Female,Female,North America,female,Female,FullNameMatch
+Sujata Banerjee,VMware,2021,Program,Female,Female,North America,female,Female,FullNameMatch
+Suman Banerjee,University of Wisconsin—Madison,2021,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Theo Benson,Brown University,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Dinesh Bharadia,"University of California, San Diego",2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Pramod Bhatotia,TU Munich,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Olivier Bonaventure,Université catholique de Louvain,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Joseph Bonneau,New York University,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Matthew Caesar 0001,University of Illinois at Urbana–Champaign,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Ang Chen,Rice University,2021,Program,Male,Male,North America,andy,Male,FullNameMatch
+Bo Chen,Meraki,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Kai Chen,Hong Kong University of Science & Technology,2021,Program,,Male,Asia,male,Male,FuzzyMatch
+Mosharaf Chowdhury,University of Michigan,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Asaf Cidon,Columbia University,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Italo Cunha,Universidade Federal de Minas Gerais,2021,Program,Male,Male,South America,male,Male,FullNameMatch
+Nandita Dukkipati,Google,2021,Program,Female,Female,North America,female,Female,FullNameMatch
+Zakir Durumeric,Stanford University,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Lars Eggert,NetApp,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Manya Ghobadi,Massachusetts Institute of Technology,2021,Program,Female,Female,North America,female,Female,FullNameMatch
+Shyam Gollakota,University of Washington,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Haryadi Gunawi,University of Chicago,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Arpit Gupta,"University of California, Santa Barbara",2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Indranil Gupta,University of Illinois at Urbana–Champaign,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Hamed Haddadi,Imperial College London,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Andreas Haeberlen,University of Pennsylvania,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Dongsu Han,Korea Advanced Institute of Science and Technology (KAIST),2021,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Haitham Hassanieh,University of Illinois at Urbana–Champaign,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Ryan Huang,Johns Hopkins University,2021,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Keon Jang,Max Planck Institute for Software Systems,2021,Program,Male,Male,Europe,andy,Male,FullNameMatch
+Junchen Jiang,University of Chicago,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Anurag Khandelwal,Yale University,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Changhoon Kim,Barefoot Networks,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Dejan Kostic,KTH Royal Institute of Technology,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Haonan Lu,Princeton University and Microsoft Research,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Morley Mao,University of Michigan,2021,Program,,Female,North America,unknown,Female,FuzzyMatch
+Shuai Mu,Stony Brook University,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Gilles Muller,Inria,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Rajalakshmi Nandakumar,Cornell University,2021,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Ravi Netravali,"University of California, Los Angeles",2021,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Rishab Nithyanand,University of Iowa,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Dave Oran,Independent,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Dan Pei,Tsinghua University,2021,Program,Male,Male,Asia,male,Male,FullNameMatch
+Barath Raghavan,University of Southern California,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Costin Raiciu,Universitatea Politehnica Bucuresti,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Jennifer Rexford,Princeton University,2021,Program,Female,Female,North America,female,Female,FullNameMatch
+Chris Rossbach,The University of Texas at Austin,2021,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Michael Schapira,The Hebrew University of Jerusalem,2021,Program,Male,Male,Asia,male,Male,FullNameMatch
+Eric Schkufza,VMware,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Siddhartha Sen,Microsoft Research,2021,Program,,Male,North America,unknown,Male,FuzzyMatch
+Srinivasan Seshan,Carnegie Mellon University,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Rob Sherwood,Facebook,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Alex Snoeren,"University of California, San Diego",2021,Program,,Male,North America,male,Male,FuzzyMatch
+Ryan Stutsman,University of Utah,2021,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Srikanth Sundaresan,Facebook,2021,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Laurent Vanbever,ETH Zurich,2021,Program,Male,Male,Europe,male,Male,FullNameMatch
+Peter Varman,Rice University,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Matteo Varvello,Brave Software,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Joerg Widmer,IMDEA,2021,Program,Male,Male,Europe,unknown,Male,FullNameMatch
+Yongqiang Xiong,Microsoft Research Asia,2021,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Minlan Yu,Harvard University,2021,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Matei Zaharia,Stanford University,2021,Program,Male,Male,North America,male,Male,FullNameMatch
+Irene Zhang,Microsoft Research,2021,Program,Female,Female,North America,female,Female,FullNameMatch
+Yiying Zhang,"University of California, San Diego",2021,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Lin Zhong,Rice University,2021,Program,Male,Male,North America,female,Male,FullNameMatch
+Noa Zilberman,University of Oxford,2021,Program,Female,Female,Europe,female,Female,FullNameMatch
+Sangeetha Abdu-Jyothi,"University of California, Irvine, and VMware Research",2022,Program,,Female,North America,unknown,Female,FuzzyMatch
+Fadel Adib,Massachusetts Institute of Technology,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Behnaz Arzani,Microsoft Research,2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Anirudh Badam,Microsoft Research,2022,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Mahesh Balakrishnan,Facebook,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Aruna Balasubramanian,Stony Brook University,2022,Program,Female,Female,North America,female,Female,FullNameMatch
+Hitesh Ballani,Microsoft Research,2022,Program,Male,Male,Europe,unknown,Male,FullNameMatch
+Sujata Banerjee,VMware Research,2022,Program,Female,Female,North America,female,Female,FullNameMatch
+Theo Benson,Brown University,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Matthew Caesar,University of Illinois at Urbana–Champaign,2022,Program,,Male,North America,male,Male,FuzzyMatch
+Vijay Chidambaram,The University of Texas at Austin,2022,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Asaf Cidon,Columbia University,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Angela Demke Brown,University of Toronto,2022,Program,Female,Female,North America,female,Female,FullNameMatch
+Fahad Dogar,Tufts University,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Giulia Fanti,Carnegie Mellon University,2022,Program,Female,Female,North America,female,Female,FullNameMatch
+Rodrigo Fonseca,Microsoft Research,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Manya Ghobadi,Massachusetts Institute of Technology,2022,Program,Female,Female,North America,female,Female,FullNameMatch
+Soudeh Ghorbani,Johns Hopkins University,2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Phillipa Gill,Google,2022,Program,Female,Female,North America,female,Female,FullNameMatch
+Brighten Godfrey,University of Illinois at Urbana–Champaign and VMware,2022,Program,,Male,North America,unknown,Male,FuzzyMatch
+Shyam Gollakota,University of Washington,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Ramesh Govindan,University of Southern California,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Chuanxiong Guo,ByteDance,2022,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Andreas Haeberlen,University of Pennsylvania,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Kurtis Heimerl,University of Washington,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Wenjun Hu,Yale University,2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Kyle Jamieson,Princeton University,2022,Program,Male,Male,North America,mostly_female,Male,FullNameMatch
+Junchen Jiang,University of Chicago,2022,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Anuj Kalia,Microsoft Research,2022,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Anurag Khandelwal,Yale University,2022,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ana Klimovic,ETH Zurich,2022,Program,Female,Female,Europe,female,Female,FullNameMatch
+Dejan Kostic,KTH Royal Institute of Technology,2022,Program,Male,Male,Europe,male,Male,FullNameMatch
+Franck Le,IBM Research,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Kate Lin,National Chiao Tung University,2022,Program,,Female,Asia,female,Female,FuzzyMatch
+Zaoxing Alan Liu,Boston University,2022,Program,,Male,North America,unknown,Male,FuzzyMatch
+Jay Lorch,Microsoft Research,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Jonathan Mace,Max Planck Institute for Software Systems (MPI-SWS),2022,Program,Male,Male,Europe,male,Male,FullNameMatch
+Harsha Madhyastha,University of Michigan,2022,Program,,Male,North America,unknown,Male,FuzzyMatch
+Aurojit Panda,New York University,2022,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Kyoongsoo Park,Korea Advanced Institute of Science and Technology (KAIST),2022,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Chunyi Peng,Purdue University,2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Ben Pfaff,VMware Research,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+George Porter,"University of California, San Diego",2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Costin Raiciu,University Politehnica of Bucharest and Correct Networks,2022,Program,Male,Male,Europe,male,Male,FullNameMatch
+Robert Ricci,University of Utah,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Michael Schapira,The Hebrew University of Jerusalem,2022,Program,Male,Male,Asia,male,Male,FullNameMatch
+Stefan Schmid,Technische Universität Berlin and University of Vienna,2022,Program,,Male,Europe,male,Male,FuzzyMatch
+Brent Stephens,University of Utah,2022,Program,,Male,North America,male,Male,FuzzyMatch
+Laurent Vanbever,ETH Zurich,2022,Program,Male,Male,Europe,male,Male,FullNameMatch
+Shivaram Venkataraman,University of Wisconsin—Madison,2022,Program,Male,Male,North America,unknown,Male,FullNameMatch
+David Walker,Princeton University,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Jia Wang,AT&T Labs,2022,Program,Female,Female,North America,andy,Female,FullNameMatch
+Michael Wei,VMware Research,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+John Wilkes,Google,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Xiaowei Yang,Duke University,2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Minlan Yu,Harvard University,2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Ellen Zegura,Georgia Institute of Technology,2022,Program,,Female,North America,female,Female,FuzzyMatch
+Ying Zhang,Facebook,2022,Program,Female,Female,North America,andy,Female,FullNameMatch
+Yiying Zhang,"University of California, San Diego",2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Ben Zhao,University of Chicago,2022,Program,Male,Male,North America,male,Male,FullNameMatch
+Wenting Zheng,Carnegie Mellon University,2022,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Lin Zhong,Yale University,2022,Program,Male,Male,North America,female,Male,FullNameMatch
+Danyang Zhuo,Duke University,2022,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Sangeetha Abdu-Jyothi,"University of California, Irvine, and VMware Research",2023,Program,,Female,North America,unknown,Female,FuzzyMatch
+Fadel Adib,Massachusetts Institute of Technology,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Rachit Agarwal,Cornell University,2023,Program,,Male,North America,unknown,Male,FuzzyMatch
+Aditya Akella,The University of Texas at Austin,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Deniz Altinbuken,Google,2023,Program,Female,Female,North America,mostly_female,Female,FullNameMatch
+Ganesh Ananthanarayanan,Microsoft Research,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Maria Apostolaki,Princeton University,2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Katerina Argyraki,EPFL,2023,Program,,Female,Europe,female,Female,FuzzyMatch
+Behnaz Arzani,Microsoft Research,2023,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Adam Belay,Massachusetts Institute of Technology,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Ken Birman,Cornell University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Matthew Caesar,University of Illinois at Urbana–Champaign,2023,Program,,Male,North America,male,Male,FuzzyMatch
+Marco Canini,KAUST,2023,Program,Male,Male,Asia,male,Male,FullNameMatch
+Ranveer Chandra,Microsoft Research,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ang Chen,Rice University,2023,Program,Male,Male,North America,andy,Male,FullNameMatch
+Paolo Costa,Microsoft Research,2023,Program,Male,Male,Europe,male,Male,FullNameMatch
+Murat Demirbas,Amazon,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Nandita Dukkipati,Google,2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Ramakrishnan Durairajan,University of Oregon,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Giuila Fanti,Carnegie Mellon University,2023,Program,,Female,North America,unknown,Female,FuzzyMatch
+Anja Feldmann,Max Planck Institute for Informatics,2023,Program,Female,Female,Europe,female,Female,FullNameMatch
+Bryan Ford,EPFL,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Yashar Ganjali,"University of Toronto, Huawei Canada",2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Mojgan Ghasemi,Google,2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Yasaman Ghasempour,Princeton University,2023,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Soudeh Ghorbani,Johns Hopkins University,2023,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Shyam Gollakota,University of Washington,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Prateesh Goyal,Microsoft Research,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Arpit Gupta,"University of California, Santa Barbara",2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Indranil Gupta,University of Illinois at Urbana–Champaign,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Hamed Haddadi,Imperial College London,2023,Program,Male,Male,Europe,male,Male,FullNameMatch
+Andreas Haeberlen,University of Pennsylvania,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Dongsu Han,Korea Advanced Institute of Science and Technology (KAIST),2023,Program,Male,Male,Asia,unknown,Male,FullNameMatch
+Haitham Hassanieh,University of Illinois at Urbana–Champaign,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Michio Honda,University of Edinburgh,2023,Program,Male,Male,Europe,male,Male,FullNameMatch
+Jon Howell,VMware Research,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Wenjun Hu,Yale University,2023,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Rebecca Isaacs,Amazon,2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Anand Iyer,Microsoft Research,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Vikram Iyer,University of Washington,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Zhihao Jia,Carnegie Mellon University,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Junchen Jiang,University of Chicago,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Xin Jin,Peking University,2023,Program,Male,Male,Asia,andy,Male,FullNameMatch
+Srikanth Kandula,Microsoft Research,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Sachin Katti,Stanford University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Anurag Khandelwal,Yale University,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Song Min Kim,Korea Advanced Institute of Science and Technology (KAIST),2023,Program,Male,Male,Asia,andy,Male,FullNameMatch
+Marios Kogias,Imperial College London,2023,Program,Male,Male,Europe,male,Male,FullNameMatch
+Dejan Kostic,KTH Royal Institute of Technology,2023,Program,Male,Male,Europe,male,Male,FullNameMatch
+Gautam Kumar,Google,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Jeongkeun Lee,Intel,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Alan (Zaoxing) Liu,Boston University,2023,Program,,Male,North America,male,Male,FuzzyMatch
+Grace Liu,NYU Shanghai,2023,Program,Female,Female,Asia,female,Female,FullNameMatch
+Jay Lorch,Microsoft Research,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Harsha Madhyastha,University of Michigan,2023,Program,,Male,North America,unknown,Male,FuzzyMatch
+Morley Z. Mao,University of Michigan,2023,Program,,Female,North America,unknown,Female,FuzzyMatch
+James Mickens,Harvard University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Radhika Mittal,University of Illinois at Urbana–Champaign,2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Jayashree Mohan,Microsoft Research India,2023,Program,Female,Female,Asia,female,Female,FullNameMatch
+Iqbal Mohomed,Samsung AI Center Toronto,2023,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Shuai Mu,Stony Brook University,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Rajalakshmi Nandakumar,Cornell Tech,2023,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Srinivas Narayana,Rutgers University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Ravi Netravali,Princeton University,2023,Program,Male,Male,North America,mostly_male,Male,FullNameMatch
+Amy Ousterhout,"University of California, Berkeley",2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Aurojit Panda,New York University,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Peter Pietzuch,Imperial College London,2023,Program,,Male,Europe,male,Male,FuzzyMatch
+Sanjay Rao,Purdue University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Jennifer Rexford,Princeton University,2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Nirupam Roy,"University of Maryland, College Park",2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ahmed Saeed,Georgia Institute of Technology,2023,Program,,Male,North America,male,Male,FuzzyMatch
+Raja Sambasivan,Tufts University,2023,Program,,Male,North America,mostly_male,Male,FuzzyMatch
+Stefan Schmid,Technische Universität Berlin,2023,Program,,Male,Europe,male,Male,FuzzyMatch
+Aaron Schulman,"University of California, San Diego",2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Siddhartha Sen,Microsoft Research,2023,Program,,Male,North America,unknown,Male,FuzzyMatch
+Srinivasan Seshan,Carnegie Mellon University,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Muhammad Shahbaz,Purdue University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Rachee Singh,Microsoft Research,2023,Program,Female,Female,North America,unknown,Female,FullNameMatch
+Dimitrios Skarlatos 0002,Carnegie Mellon University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Alex Snoeren,"University of California, San Diego",2023,Program,,Male,North America,male,Male,FuzzyMatch
+Brent Stephens,University of Utah,2023,Program,,Male,North America,male,Male,FuzzyMatch
+Mina Tahmasbi,Cornell University,2023,Program,,Female,North America,female,Female,FuzzyMatch
+Amy Tai,Google,2023,Program,Female,Female,North America,female,Female,FullNameMatch
+Doug Terry,Amazon,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Amin Vahdat,Google,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Hakim Weatherspoon,Cornell University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Michael Wei,VMware Research,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+John Wilkes,Google,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Keith Winstein,Stanford University,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Yiting Xia,Max Planck Institute for Informatics,2023,Program,Female,Female,Europe,unknown,Female,FullNameMatch
+Tianyin Xu,University of Illinois at Urbana–Champaign,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Neeraja Yadwadkar,The University of Texas at Austin,2023,Program,,Female,North America,unknown,Female,FuzzyMatch
+Francis Yan,Microsoft Research,2023,Program,,Male,Asia,male,Male,FuzzyMatch
+Ellen Zegura,Georgia Institute of Technology,2023,Program,,Female,North America,female,Female,FuzzyMatch
+Ennan Zhai,Alibaba,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Ying Zhang,Meta,2023,Program,Female,Female,North America,andy,Female,FullNameMatch
+Ben Zhao,University of Chicago,2023,Program,Male,Male,North America,male,Male,FullNameMatch
+Zhizhen Zhong,Massachusetts Institute of Technology,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Danyang Zhuo,Duke University,2023,Program,Male,Male,North America,unknown,Male,FullNameMatch
+Casey Henderson,USENIX Association,2013,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Brian Noble,University of Michigan,2013,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jennifer Rexford,Princeton University,2013,Steering,Female,Female,North America,female,Female,FullNameMatch
+Mike Schroeder,Microsoft Research,2013,Steering,Male,Male,North America,male,Male,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2013,Steering,Male,Male,North America,male,Male,FullNameMatch
+Chandu Thekkath,Microsoft Research,2013,Steering,Male,Male,North America,unknown,Male,FullNameMatch
+Amin Vahdat,"University of California, San Diego",2013,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2014,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2014,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2014,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jennifer Rexford,Princeton University,2014,Steering,Female,Female,North America,female,Female,FullNameMatch
+Mike Schroeder,Microsoft Research,2014,Steering,Male,Male,North America,male,Male,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2014,Steering,Male,Male,North America,male,Male,FullNameMatch
+Chandu Thekkath,Microsoft Research,2014,Steering,Male,Male,North America,unknown,Male,FullNameMatch
+Nick Feamster,Princeton University,2015,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2015,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2015,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2015,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jennifer Rexford,Princeton University,2015,Steering,Female,Female,North America,female,Female,FullNameMatch
+Mike Schroeder,Microsoft Research,2015,Steering,Male,Male,North America,male,Male,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2015,Steering,Male,Male,North America,male,Male,FullNameMatch
+Paul Barham,Google,2016,Steering,Male,Male,North America,male,Male,FullNameMatch
+Nick Feamster,Princeton University,2016,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2016,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2016,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2016,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jennifer Rexford,Princeton University,2016,Steering,Female,Female,North America,female,Female,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2016,Steering,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,EPFL,2017,Steering,,Female,Europe,female,Female,FuzzyMatch
+Paul Barham,Google,2017,Steering,Male,Male,North America,male,Male,FullNameMatch
+Nick Feamster,Princeton University,2017,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2017,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2017,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jeff Mogul,Google,2017,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2017,Steering,Male,Male,North America,male,Male,FullNameMatch
+Timothy Roscoe,ETH Zurich,2017,Steering,Male,Male,Europe,male,Male,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2017,Steering,Male,Male,North America,male,Male,FullNameMatch
+Aditya Akella,University of Wisconsin–Madison,2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,EPFL,2018,Steering,,Female,Europe,female,Female,FuzzyMatch
+Paul Barham,Google,2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Nick Feamster,Princeton University,2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2018,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Jon Howell,Google,2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jeff Mogul,Google,2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Timothy Roscoe,ETH Zurich,2018,Steering,Male,Male,Europe,male,Male,FullNameMatch
+Alex C. Snoeren,"University of California, San Diego",2018,Steering,Male,Male,North America,male,Male,FullNameMatch
+Aditya Akella,University of Wisconsin–Madison,2019,Steering,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2019,Steering,,Female,Europe,female,Female,FuzzyMatch
+Sujata Banerjee,VMware Research,2019,Steering,Female,Female,North America,female,Female,FullNameMatch
+Paul Barham,Google,2019,Steering,Male,Male,North America,male,Male,FullNameMatch
+Nick Feamster,Princeton University,2019,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2019,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Jon Howell,VMware Research,2019,Steering,Male,Male,North America,male,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2019,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jeff Mogul,Google,2019,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2019,Steering,Male,Male,North America,male,Male,FullNameMatch
+Timothy Roscoe,ETH Zurich,2019,Steering,Male,Male,Europe,male,Male,FullNameMatch
+Srinivasan Seshan,Carnegie Mellon University,2019,Steering,Male,Male,North America,unknown,Male,FullNameMatch
+Aditya Akella,University of Wisconsin–Madison,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Katerina Argyraki,École Polytechnique Fédérale de Lausanne (EPFL),2020,Steering,,Female,Europe,female,Female,FuzzyMatch
+Sujata Banerjee,VMware Research,2020,Steering,Female,Female,North America,female,Female,FullNameMatch
+Paul Barham,Google,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Nick Feamster,University of Chicago,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2020,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Jon Howell,VMware Research,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jay Lorch,Microsoft Research,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jeff Mogul,Google,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2020,Steering,Male,Male,North America,male,Male,FullNameMatch
+Timothy Roscoe,ETH Zurich,2020,Steering,Male,Male,Europe,male,Male,FullNameMatch
+Srinivasan Seshan,Carnegie Mellon University,2020,Steering,Male,Male,North America,unknown,Male,FullNameMatch
+Minlan Yu,Harvard University,2020,Steering,Female,Female,North America,unknown,Female,FullNameMatch
+Aditya Akella,University of Wisconsin–Madison,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Sujata Banerjee,VMware Research,2021,Steering,Female,Female,North America,female,Female,FullNameMatch
+Paul Barham,Google,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Nick Feamster,University of Chicago,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Casey Henderson,USENIX Association,2021,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Jon Howell,VMware Research,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jay Lorch,Microsoft Research,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jeff Mogul,Google,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Brian Noble,University of Michigan,2021,Steering,Male,Male,North America,male,Male,FullNameMatch
+Timothy Roscoe,ETH Zurich,2021,Steering,Male,Male,Europe,male,Male,FullNameMatch
+Srinivasan Seshan,Carnegie Mellon University,2021,Steering,Male,Male,North America,unknown,Male,FullNameMatch
+Minlan Yu,Harvard University,2021,Steering,Female,Female,North America,unknown,Female,FullNameMatch
+Aditya Akella,University of Wisconsin–Madison,2022,Steering,Male,Male,North America,male,Male,FullNameMatch
+Sujata Banerjee,VMware Research,2022,Steering,Female,Female,North America,female,Female,FullNameMatch
+Ranjita Bhagwan,Microsoft Research India,2022,Steering,Female,Female,Asia,unknown,Female,FullNameMatch
+Casey Henderson,USENIX Association,2022,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Jon Howell,VMware Research,2022,Steering,Male,Male,North America,male,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2022,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jay Lorch,Microsoft Research,2022,Steering,Male,Male,North America,male,Male,FullNameMatch
+James Mickens,Harvard University,2022,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jeff Mogul,Google,2022,Steering,Male,Male,North America,male,Male,FullNameMatch
+George Porter,"University of California, San Diego",2022,Steering,Male,Male,North America,male,Male,FullNameMatch
+Timothy Roscoe,ETH Zurich,2022,Steering,Male,Male,Europe,male,Male,FullNameMatch
+Srinivasan Seshan,Carnegie Mellon University,2022,Steering,Male,Male,North America,unknown,Male,FullNameMatch
+Renata Teixeira,Netflix,2022,Steering,Female,Female,Europe,female,Female,FullNameMatch
+Minlan Yu,Harvard University,2022,Steering,Female,Female,North America,unknown,Female,FullNameMatch
+Aditya Akella,The University of Texas at Austin,2023,Steering,Male,Male,North America,male,Male,FullNameMatch
+Sujata Banerjee,VMware Research,2023,Steering,Female,Female,North America,female,Female,FullNameMatch
+Ranjita Bhagwan,Microsoft Research India,2023,Steering,Female,Female,Asia,unknown,Female,FullNameMatch
+Casey Henderson,USENIX Association,2023,Steering,Female,Female,North America,andy,Female,FullNameMatch
+Jon Howell,VMware Research,2023,Steering,Male,Male,North America,male,Male,FullNameMatch
+Arvind Krishnamurthy,University of Washington,2023,Steering,Male,Male,North America,male,Male,FullNameMatch
+Jay Lorch,Microsoft Research,2023,Steering,Male,Male,North America,male,Male,FullNameMatch
+James Mickens,Harvard University,2023,Steering,Male,Male,North America,male,Male,FullNameMatch
+Amar Phanishayee,Microsoft Research,2023,Steering,Male,Male,North America,male,Male,FullNameMatch
+George Porter,"University of California, San Diego",2023,Steering,Male,Male,North America,male,Male,FullNameMatch
+Vyas Sekar,Carnegie Mellon University,2023,Steering,Male,Male,North America,unknown,Male,FullNameMatch
+Renata Teixeira,Netflix,2023,Steering,Female,Female,Europe,female,Female,FullNameMatch
+Minlan Yu,Harvard University,2023,Steering,Female,Female,North America,unknown,Female,FullNameMatch
